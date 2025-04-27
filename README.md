@@ -1,4 +1,4 @@
-# nanou.app's journal
+# nanou's journal
 
 
 * * *
@@ -7,4 +7,3 @@
 bundle install
 bundle exec jekyll serve
 ```
-

@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: nanou.app
+title: nanou
 description: Redefing trust in childcare through technology
 logo: "/images/logo.png"
 logo_dark: "/images/logo.png"
@@ -29,7 +29,7 @@ cta_button:
 # Hero Settings
 hero:
   enable: true
-  hero_title: Insights from nanou.app
+  hero_title: Insights from nanou
   hero_description: Redefing trust in childcare through technology
 
 hero_authors:
@@ -56,13 +56,13 @@ recommended:
 # About Section Settings
 about:
   enable: true
-  about_title: nanou.app
+  about_title: nanou
   about_subtitle: Redefing trust in childcare through technology
   about_description: |
-    nanou.app is a platform that makes finding trustworthy childcare easier for families. It replaces uncertainty with transparency through improved verification processes, giving parents more confidence in their childcare decisions.
+    nanou is a platform that makes finding trustworthy childcare easier for families. It replaces uncertainty with transparency through improved verification processes, giving parents more confidence in their childcare decisions.
 
-  about_image: 
-  about_image_alt: nanou.app
+  about_image:
+  about_image_alt: nanou
   about_button_text: Learn more
   about_button_link: "/about/"
 
@@ -78,8 +78,8 @@ authors:
 # Newsletter Settings
 mailchimp:
   enable: true
-  mailchimp_title: Stay updated on nanou.app
-  mailchimp_description: Follow our journey as we build nanou.app and share useful childcare information along the way.
+  mailchimp_title: Stay updated on nanou
+  mailchimp_description: Follow our journey as we build nanou and share useful childcare information along the way.
   mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
   mailchimp_input_text: Your email address
   mailchimp_button_text: Subscribe
@@ -88,7 +88,7 @@ mailchimp:
 #-------------------------------
 # Footer Settings
 # footer_description: Join us on a journey where every post brings a fresh perspective. This blog is for those who are driven by curiosity and a desire to learn.
-footer_description: nanou.app is a platform that makes finding trustworthy childcare easier for families. It replaces uncertainty with transparency through improved verification processes, giving parents more confidence in their childcare decisions.
+footer_description: nanou is a platform that makes finding trustworthy childcare easier for families. It replaces uncertainty with transparency through improved verification processes, giving parents more confidence in their childcare decisions.
 
 # Social Links
 social:
