@@ -1,0 +1,122 @@
+#-------------------------------
+# Site Settings
+title: nanou.app
+description: Redefing trust in childcare through technology
+logo: "/images/logo.png"
+logo_dark: "/images/logo.png"
+color_scheme: auto # [auto, light, dark]
+
+
+#-------------------------------
+# Navigation Settings
+menu_settings:
+  menu_items:
+    - title: "Home"
+      url: "/"
+    - title: "About"
+      url: "/about/"
+
+# Call to action button
+cta_button:
+  enable: true
+  cta_button_link: '/contact/'
+  cta_button_text: Say hello!
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero_title: Insights from nanou.app
+  hero_description: Redefing trust in childcare through technology
+
+hero_authors:
+  enable: false
+  hero_authors_description: Meet the team
+
+
+#-------------------------------
+# Blog Section Settings
+blog:
+  enable: true
+  blog_title: Latest articles
+
+
+#-------------------------------
+# Recommended Section Settings
+recommended:
+  enable: true
+  recommended_title: Recommended
+  recommended_tag: "regtech"
+
+
+#-------------------------------
+# About Section Settings
+about:
+  enable: true
+  about_title: nanou.app
+  about_subtitle: Redefing trust in childcare through technology
+  about_description: |
+    nanou.app is a platform that makes finding trustworthy childcare easier for families. It replaces uncertainty with transparency through improved verification processes, giving parents more confidence in their childcare decisions.
+
+  about_image: 
+  about_image_alt: nanou.app
+  about_button_text: Learn more
+  about_button_link: "/about/"
+
+
+#-------------------------------
+# Authors Section Settings
+authors:
+  enable: #true
+  authors_title: Top authors
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp:
+  enable: true
+  mailchimp_title: Stay updated on nanou.app
+  mailchimp_description: Follow our journey as we build nanou.app and share useful childcare information along the way.
+  mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+  mailchimp_input_text: Your email address
+  mailchimp_button_text: Subscribe
+
+
+#-------------------------------
+# Footer Settings
+# footer_description: Join us on a journey where every post brings a fresh perspective. This blog is for those who are driven by curiosity and a desire to learn.
+footer_description: nanou.app
+
+# Social Links
+social:
+- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
+- {icon: "fa-brands fa-tiktok", name: "Tiktok", link: "https://www.tiktok.com"}
+- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com/nanouapp"}
+- {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
+
+# Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
+# Other icons can be found at https://fontawesome.com/icons
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  form_id: nanouapp@shift42.io # Add your form_id
+  title: Get in touch
+  description: We value your questions, feedback, and partnership inquiries. Whether you're a parent interested in our platform, a caregiver looking to join, or a company wanting to offer childcare benefits, we're here to help.
+  button_text: Send now
+
+# NOTE
+# The contact form is using formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus_identifier: nanouapp # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google_analytics: G123456
