@@ -13,4 +13,4 @@ youtube:
 tiktok:
 ---
 
-Despo is a software engineer and co-founder of nanou. With a passion for solving real-world challenges, she's focused on bringing trust and transparency to the childcare industry through her work on a platform inspired by personal experiences with the complexities of finding reliable childcare.
+Despo is a software engineer and co-founder of nanou. With a passion for solving real-world challenges, she is focused on bringing trust and transparency to the childcare industry through her work on a platform inspired by personal experiences with the complexities of finding reliable childcare.
