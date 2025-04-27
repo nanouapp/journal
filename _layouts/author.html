@@ -38,6 +38,9 @@ layout: default
       {% if page.website %}
         <a class="author__social__item" href="{{ page.website }}" aria-label="Website link" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i></a>
       {% endif %}
+      {% if page.linkedin %}
+        <a class="author__social__item" href="{{ page.linkedin }}" aria-label="LinkedIn link" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i></a>
+      {% endif %}
       {% if page.facebook %}
         <a class="author__social__item" href="{{ page.facebook }}" aria-label="Facebook link" target="_blank" rel="noopener"><i class="fa-brands fa-facebook"></i></a>
       {% endif %}
@@ -80,5 +83,3 @@ layout: default
 
 </section>
 <!-- end author -->
-
-
