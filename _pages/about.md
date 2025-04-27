@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About nanou.app
+title: About nanou
 description: We are building a platform to help parents find trustworthy childcare through better verification processes.
 permalink: /about/
 image: '/images/explore.jpeg'
 image_caption: Building trust in childcare
 ---
 
-At the heart of nanou.app is a clear mission: to make finding trustworthy childcare easier for families.
+At the heart of nanou is a clear mission: to make finding trustworthy childcare easier for families.
 
 > Finding childcare should not require blind trust or relying solely on word of mouth.
 
@@ -27,7 +27,6 @@ What we are building:
 
 Many families worldwide struggle with finding childcare they can trust. This is a universal challenge that crosses borders and cultures. We believe technology can help by creating more transparency and better verification processes.
 
-We are at the beginning of this journey and are developing nanou.app with a focus on solving real problems for parents like ourselves. Join us as we work toward building a solution that makes childcare decisions easier and more reassuring.
+We are at the beginning of this journey and are developing nanou with a focus on solving real problems for parents like ourselves. Join us as we work toward building a solution that makes childcare decisions easier and more reassuring.
 
 ***
-
