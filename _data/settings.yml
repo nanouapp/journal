@@ -80,7 +80,7 @@ mailchimp:
   enable: true
   mailchimp_title: Stay updated on nanou
   mailchimp_description: Follow our journey as we build nanou and share useful childcare information along the way.
-  mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+  mailchimp_identifier: shift42.us16.list-manage.com/subscribe/post?u=51ac529759f098fa75dd95b3f&id=b16e3ea778&f_id=005311e1f0
   mailchimp_input_text: Your email address
   mailchimp_button_text: Subscribe
 
