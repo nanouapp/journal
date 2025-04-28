@@ -94,10 +94,7 @@ footer_description: nanou is a platform that makes finding trustworthy childcare
 social:
 - {icon: "fa-brands fa-linkedin", name: "LinkedIn", link: "https://linkedin.com"}
 - {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-tiktok", name: "Tiktok", link: "https://www.tiktok.com"}
 - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com/nanouapp"}
-- {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
 # Other icons can be found at https://fontawesome.com/icons
@@ -122,4 +119,4 @@ disqus_identifier: nanouapp # Add your shortname for Disqus Comment. For example
 
 #-------------------------------
 # Google Analytics
-google_analytics: G123456
+google_analytics: G-QH3BVJCGB1
