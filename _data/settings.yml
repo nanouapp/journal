@@ -97,6 +97,7 @@ social:
 - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com/nanouapp"}
 - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social/@nanouapp"}
 
+
 # Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
 # Other icons can be found at https://fontawesome.com/icons
 
@@ -120,4 +121,4 @@ disqus_identifier: nanouapp # Add your shortname for Disqus Comment. For example
 
 #-------------------------------
 # Google Analytics
-google_analytics: G123456
+google_analytics: G-QH3BVJCGB1
