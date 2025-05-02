@@ -6,7 +6,7 @@ image: '/images/despo.png'
 location:
 website:
 twitter: https://twitter.com/despo
-instagram: https://www.instagram.com/despo
+instagram: 
 pinterest:
 mastodon:
 youtube:

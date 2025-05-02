@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: nanou
-description: Redefing trust in childcare through technology
+description: Redefining trust in childcare through technology
 logo: "/images/logo.png"
 logo_dark: "/images/logo.png"
 color_scheme: auto # [auto, light, dark]
@@ -30,7 +30,7 @@ cta_button:
 hero:
   enable: true
   hero_title: Insights from nanou
-  hero_description: Redefing trust in childcare through technology
+  hero_description: Redefining trust in childcare through technology
 
 hero_authors:
   enable: false
@@ -57,7 +57,7 @@ recommended:
 about:
   enable: true
   about_title: nanou
-  about_subtitle: Redefing trust in childcare through technology
+  about_subtitle: Redefining trust in childcare through technology
   about_description: |
     nanou is a platform that makes finding trustworthy childcare easier for families. It replaces uncertainty with transparency through improved verification processes, giving parents more confidence in their childcare decisions.
 
@@ -92,7 +92,7 @@ footer_description: nanou is a platform that makes finding trustworthy childcare
 
 # Social Links
 social:
-- {icon: "fa-brands fa-linkedin", name: "LinkedIn", link: "https://linkedin.com"}
+- {icon: "fa-brands fa-linkedin", name: "LinkedIn", link: "https://www.linkedin.com/company/nanouapp"}
 - {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://www.facebook.com/nanouapp"}
 - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com/nanouapp"}
 - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social/@nanouapp"}
